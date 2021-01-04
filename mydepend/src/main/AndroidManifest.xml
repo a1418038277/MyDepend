@@ -1,5 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="firsttest.test.mydepend">
 
-    /
+    <application
+        android:name=".app.MyApp">
+    </application>
 </manifest>

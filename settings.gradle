@@ -1,0 +1,3 @@
+include ':mydepend'
+include ':app'
+rootProject.name = "MyDepend"
